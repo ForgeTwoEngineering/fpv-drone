@@ -71,15 +71,15 @@ This project teaches aerospace fundamentals: thrust-to-weight ratios, PID tuning
 
 | Part | Qty | Est. Cost | Who Buys |
 |------|-----|-----------|----------|
-| Frame Kit (250mm or F450) | 1 | $25 | Oskar |
-| 2204 Brushless Motors (set of 4) | 1 | $35 | Oskar |
+| Frame Kit (250mm or F450) | 1 | $25 | Both  |
+| 2204 Brushless Motors (set of 4) | 1 | $35 | Both |
 | 4-in-1 ESC (30A) | 1 | $30 | Oskar |
-| SpeedyBee F405 V4 Flight Controller | 1 | $40 | Oskar |
-| Radio Transmitter + Receiver | 1 | $55 | Oskar |
-| FPV Camera Module | 1 | $25 | Oskar |
-| 4S LiPo Battery 1500mAh (x2) | 2 | $40 | Oskar |
-| Propellers (2 sets) | 2 | $12 | Oskar |
-| LiPo Battery Charger | 1 | $25 | Oskar |
+| SpeedyBee F405 V4 Flight Controller | 1 | $40 |Both|
+| Radio Transmitter + Receiver | 1 | $55 | Both |
+| FPV Camera Module | 1 | $25 | Both |
+| 4S LiPo Battery 1500mAh (x2) | 2 | $40 | Both |
+| Propellers (2 sets) | 2 | $12 | Both |
+| LiPo Battery Charger | 1 | $25 | Both |
 | **Total** | | **~$287** | |
 
 ---
