@@ -73,7 +73,7 @@ This project teaches aerospace fundamentals: thrust-to-weight ratios, PID tuning
 |------|-----|-----------|----------|
 | Frame Kit (250mm or F450) | 1 | $25 | Both  |
 | 2204 Brushless Motors (set of 4) | 1 | $35 | Both |
-| 4-in-1 ESC (30A) | 1 | $30 | Oskar |
+| 4-in-1 ESC (30A) | 1 | $30 | Both |
 | SpeedyBee F405 V4 Flight Controller | 1 | $40 |Both|
 | Radio Transmitter + Receiver | 1 | $55 | Both |
 | FPV Camera Module | 1 | $25 | Both |
